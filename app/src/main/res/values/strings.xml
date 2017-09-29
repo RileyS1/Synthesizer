@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Synthesizer</string>
+    <string name="Button1">F Button</string>
+    <string name="Button2">Play Button </string>
+    <string name="Button3">S Button</string>
+    <string name="ButtonTwinkle">Twinkle</string>
+</resources>
